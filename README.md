@@ -35,3 +35,7 @@ It includes labeled images for different skin lesion types including melanoma.
 2. Download the dataset from Kaggle and place it in the `data/` directory.
 
 3. train using the notebook.
+4. Output
+   <p align="center">
+  <img src="Melanoma_Results_samples.jpg" alt="Melanoma_Results_samples" width="700"/>
+</p>
