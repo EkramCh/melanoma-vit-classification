@@ -2,7 +2,7 @@
 # 🧠 Melanoma Classification using Vision Transformer (ViT)
 
 <p align="center">
-  <img src="95936ad4-a2b4-4fd0-b249-85298fd0b000.png" alt="Vision Transformer Architecture" width="700"/>
+  <img src="ViT.jpg" alt="Vision Transformer Architecture" width="700"/>
 </p>
 
 ## 📌 Overview
