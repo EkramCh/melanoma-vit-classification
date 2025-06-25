@@ -28,13 +28,10 @@ It includes labeled images for different skin lesion types including melanoma.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/melanoma-vit-classification.git
+   git clone https://github.com/EkramCh/melanoma-vit-classification.git
    cd melanoma-vit-classification
    ```
 
 2. Download the dataset from Kaggle and place it in the `data/` directory.
 
-3. Run the training script:
-   ```bash
-   python train.py
-   ```
+3. train using the notebook.
